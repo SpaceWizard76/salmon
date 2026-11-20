@@ -1,1 +1,1 @@
-# salmon
+https://claude.ai/code/artifact/a312ad19-2b6b-4dc0-8d22-e3895ab1be7d
